@@ -4,3 +4,6 @@
 
 **This is:**
 - Excercise 1
+
+
+![Image of Yaktocat from Github](https://octodex.github.com/images/yaktocat.png)
