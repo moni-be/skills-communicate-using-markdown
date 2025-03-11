@@ -20,3 +20,12 @@ var aVar = "Hello me";
 ```/*css*/
 myVar{color:white;}
 ```
+
+- Excercise 4
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world :0 !!
+
+
+
