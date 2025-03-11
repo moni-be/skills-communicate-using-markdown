@@ -23,9 +23,9 @@ myVar{color:white;}
 
 - Excercise 4
 
-- [ ] Turn on Github Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world :0 !!
+- [X] Turn on Github Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world :0 !!
 
 
 
