@@ -14,10 +14,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-```javascript
+``` javascript
 var aVar = "Hello me";
 ```
-```/*css*/
+``` /*css*/
 myVar{color:white;}
 ```
 
