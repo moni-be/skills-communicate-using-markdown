@@ -6,7 +6,10 @@
 - Excercise 1
 
 - Excercise 2
+
+```md
 ![Image of Yaktocat from Github](https://octodex.github.com/images/yaktocat.png)
+```
 
 - Excercise 3
   ### Samples code style by langage
